@@ -1,8 +1,6 @@
 # Online VAT Calculator
 
-**Superadmin username:** admin@gmail.com
-
-**Superadmin password:** password
+A comprehensive web application designed to facilitate accurate and efficient VAT calculations. Built on the Laravel 11 framework, this project leverages modern web development practices to deliver a robust and user-friendly platform.
 
 **Project Features:**
 - Automated tests integrated to ensure reliability.
@@ -20,17 +18,21 @@
 
 ## Demo
 
-![image](https://github.com/erfangnu/vat-laravel/assets/136471903/4243b7c7-d293-4f57-8f3b-9783215e9e48)
+**Superadmin username:** admin@gmail.com
 
-![image](https://github.com/erfangnu/vat-laravel/assets/136471903/08e26349-ce43-4066-b88f-f0357596e5f9)
+**Superadmin password:** password
 
-![image](https://github.com/erfangnu/vat-laravel/assets/136471903/2aed2567-6191-4b37-b916-15fac67432d5)
+![Online VAT Calculator Laravel](https://github.com/erfangnu/vat-laravel/assets/136471903/4243b7c7-d293-4f57-8f3b-9783215e9e48)
 
-![image](https://github.com/erfangnu/vat-laravel/assets/136471903/098ef0ab-1b0d-48d4-945c-b3fbb2868f9e)
+![Online VAT Calculator Laravel](https://github.com/erfangnu/vat-laravel/assets/136471903/08e26349-ce43-4066-b88f-f0357596e5f9)
 
-![image](https://github.com/erfangnu/vat-laravel/assets/136471903/ec05a4c7-dc32-403b-8b8f-548940745773)
+![Online VAT Calculator Laravel](https://github.com/erfangnu/vat-laravel/assets/136471903/2aed2567-6191-4b37-b916-15fac67432d5)
 
-![image](https://github.com/erfangnu/vat-laravel/assets/136471903/6b11410a-5112-427c-aabe-e520ca635cf6)
+![Online VAT Calculator Laravel](https://github.com/erfangnu/vat-laravel/assets/136471903/098ef0ab-1b0d-48d4-945c-b3fbb2868f9e)
+
+![Online VAT Calculator Laravel](https://github.com/erfangnu/vat-laravel/assets/136471903/ec05a4c7-dc32-403b-8b8f-548940745773)
+
+![Online VAT Calculator Laravel](https://github.com/erfangnu/vat-laravel/assets/136471903/6b11410a-5112-427c-aabe-e520ca635cf6)
 
 ## Getting Start
 
